@@ -79,3 +79,8 @@ UARTIOTest.exe [pin_def] [freq] [baud_rate] [interval] [clk_name] [rstn_name]
 2. UARTIOTest.exe：主程序
 
 3. PinDef.txt：引脚定义文件
+
+
+## 参考
+
+[Uart_IO_Auto_test](https://github.com/BigPig-Bro/Uart_IO_Auto_test)
