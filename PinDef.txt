@@ -1,0 +1,45 @@
+adc_ready        
+adc_clk_out      = adc_clk
+adc_sync         
+adc_reset        
+adc_cs           
+adc_rdwr         
+adc_data0        = adc_d0   
+adc_data1        = adc_d1   
+adc_data2        = adc_d2   
+adc_data3        = adc_d3   
+adc_data4        = adc_d4   
+adc_data5        = adc_d5   
+adc_data6        = adc_d6   
+adc_data7        = adc_d7   
+adc_data8        = adc_d8   
+adc_data9        = adc_d9   
+adc_data10       = adc_d10  
+adc_data11       = adc_d11  
+adc_data12       = adc_d12  
+adc_data13       = adc_d13  
+adc_data14       = adc_d14  
+adc_data15       = adc_d15  
+
+drv1             
+drv2             
+
+tdi              
+tdo              
+tms              
+tck              
+tresetn          
+tx               
+rx               
+
+por_n            
+gpio0_din        = io_0
+gpio1_din        = io_1
+gpio2_din        = io_2
+gpio3_din        = io_3
+gpio4_din        = io_4
+gpio5_din        = io_5
+AUX_TDO          
+AUX_TDI          
+AUX_TCK          
+AUX_TMS
